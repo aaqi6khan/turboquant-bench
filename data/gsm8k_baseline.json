@@ -1,0 +1,42 @@
+{
+ "tag": "baseline",
+ "correct": 94,
+ "wrong": [
+  {
+   "q": "A new program had 60 downloads in the first month. The number of downloads in th",
+   "gold": "366",
+   "pred": "",
+   "tail": "s 180 = 54\n    $$\n  - Subtract that from 180:\n    $$\n    180 - 54 = 126\n    $$\n\n---\n\n### Step 4: Total downloads over three months\n$$\n60 + 180 + 126 = 366\n$$\n\n---\n\n#### Final Answer:\n$$\n\\boxed{366}\n$$"
+  },
+  {
+   "q": "Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it w",
+   "gold": "13",
+   "pred": "12",
+   "tail": " **12 years**, Carlos will have made enough profit to **recoup the initial cost** of $90.\n\nSo, **after 12 years**, he will **start earning money** on the lemon tree.\n\n---\n\n### \u2705 Final Answer:\n\n#### 12"
+  },
+  {
+   "q": "If Marcy works for the same company for 40 years, she gets an annual pension of ",
+   "gold": "25000",
+   "pred": "30673.43",
+   "tail": " 30} = \\text{Base Pension} \\times (1.05)^{10}\n$$\n\n$$\n(1.05)^{10} \\approx 1.6289\n$$\n\n$$\n\\text{Pension at year 30} = 18,844.53 \\times 1.6289 \\approx 30,673.43\n$$\n\n---\n\n### \u2705 Final Answer:\n\n#### 30673.43"
+  },
+  {
+   "q": "Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturd",
+   "gold": "7425",
+   "pred": "2925",
+   "tail": "\n---\n\n### **Step 5: Calculate total earnings per week**\n\n- Total earnings = Total student slots \u00d7 Charge per student  \n- Total earnings = 195 \u00d7 $15.00 = **$2,925**\n\n---\n\n### \u2705 Final Answer:\n\n#### 2925"
+  },
+  {
+   "q": "Greg has an alarm set to ring three times a day as a reminder. When the alarm go",
+   "gold": "22",
+   "pred": "4",
+   "tail": " the question had asked for the number of times the alarm went off, the answer would be **3**. But since it asks for the number of **rings**, and only the first time is specified, the answer is **4**."
+  },
+  {
+   "q": "Christina is planning a birthday party and needs .75 gift bags per invited guest",
+   "gold": "24",
+   "pred": "18",
+   "tail": "ags needed is:\n\n$$\n0.75 \\times 12 = 9\n$$\n\n---\n\n### **Step 3: Calculate the total cost**\n\nEach gift bag costs **$2**.\n\nSo, the total cost is:\n\n$$\n9 \\times 2 = 18\n$$\n\n---\n\n### **Final Answer:**\n\n#### 18"
+  }
+ ]
+}

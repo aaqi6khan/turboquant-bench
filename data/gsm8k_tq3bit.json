@@ -1,0 +1,30 @@
+{
+ "tag": "tq3bit",
+ "correct": 96,
+ "wrong": [
+  {
+   "q": "Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it w",
+   "gold": "13",
+   "pred": "12",
+   "tail": "to find how many years it takes for the cumulative net profit to reach $90.\n\nLet\u2019s denote the number of years as **x**.\n\n$$\n7.5x = 90\n$$\n\n$$\nx = \\frac{90}{7.5} = 12\n$$\n\n---\n\n### Final Answer:\n\n#### 12"
+  },
+  {
+   "q": "If Marcy works for the same company for 40 years, she gets an annual pension of ",
+   "gold": "25000",
+   "pred": "2500",
+   "tail": "\nSo, the **annual pension** after 30 years is:\n\n$$\n\\text{Annual pension} = 5\\% \\times \\text{Value of the pension} = 0.05 \\times 50,000 = 2,500\n$$\n\n---\n\n### Final Answer:\n\n$$\n\\boxed{2500}\n$$\n\n#### 2500"
+  },
+  {
+   "q": "Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturd",
+   "gold": "7425",
+   "pred": "2925",
+   "tail": "# **Step 4: Calculate total revenue**\n\nJudy charges **$15.00 per student**.\n\nTotal money made =  \n**195 student-class enrollments \u00d7 $15.00 per student = $2,925**\n\n---\n\n### **Final Answer:**\n\n#### 2925"
+  },
+  {
+   "q": "Greg has an alarm set to ring three times a day as a reminder. When the alarm go",
+   "gold": "22",
+   "pred": "4",
+   "tail": "**second and third times** are described in terms of **duration**, not the number of rings.\n\nSo, the **total number of rings** is only the **first time** \u2014 **4 rings**.\n\n---\n\n### Final Answer:\n\n#### 4"
+  }
+ ]
+}

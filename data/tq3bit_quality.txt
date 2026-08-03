@@ -1,0 +1,52 @@
+To find the product of **847 × 236**, we can use the standard multiplication algorithm. Here's a brief breakdown:
+
+### Step 1: Multiply 847 by 6 (units place of 236)
+```
+   847  
+×    6  
+-------
+  5082
+```
+
+### Step 2: Multiply 847 by 30 (tens place of 236)
+```
+   847  
+×   30  
+-------
+ 25410
+```
+
+### Step 3: Multiply 847 by 200 (hundreds place of 236)
+```
+   847  
+×  200  
+-------
+169400
+```
+
+#
+-----
+The capitals of the countries you mentioned are:
+
+- **Australia**: Canberra  
+- **Canada**: Ottawa  
+- **Switzerland**: Bern  
+
+Let me know if you'd like more information about any of these cities!
+-----
+To find the **average speed** for the whole trip, we use the formula:
+
+$$
+\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}}
+$$
+
+### Step 1: Find the total distance
+- First leg: 120 km  
+- Second leg: 80 km  
+- **Total distance** = 120 km + 80 km = **200 km**
+
+### Step 2: Find the total time
+- First leg: 1.5 hours  
+- Second leg: 1 hour  
+- **Total time** = 1.5 hours + 1 hour =
+-----

@@ -1,0 +1,46 @@
+To find $ 847 \times 236 $, we can use the standard multiplication algorithm:
+
+### Step-by-step:
+
+We multiply 847 by each digit of 236, starting from the rightmost digit:
+
+1. **Multiply 847 by 6**:
+   $$
+   847 \times 6 = 5082
+   $$
+
+2. **Multiply 847 by 3 (tens place)**:
+   $$
+   847 \times 3 = 2541
+   $$
+   Shift one position to the left (i.e., multiply by 10):
+   $$
+   25410
+   $$
+
+3. **Multipl
+-----
+The capitals of the mentioned countries are:
+
+- **Australia**: Canberra  
+- **Canada**: Ottawa  
+- **Switzerland**: Bern  
+
+Let me know if you'd like more information about any of these cities!
+-----
+To find the **average speed** for the whole trip, we use the formula:
+
+$$
+\text{Average Speed} = \frac{\text{Total Distance}}{\text{Total Time}}
+$$
+
+### Step 1: Calculate the total distance
+- First part: 120 km  
+- Second part: 80 km  
+- **Total distance** = 120 km + 80 km = **200 km**
+
+### Step 2: Calculate the total time
+- First part: 1.5 hours  
+- Second part: 1 hour  
+- **Total time** = 1.5 ho
+-----

@@ -1,0 +1,48 @@
+{
+ "tag": "tq4bit",
+ "correct": 93,
+ "wrong": [
+  {
+   "q": "Eliza's rate per hour for the first 40 hours she works each week is $10. She als",
+   "gold": "460",
+   "pred": "",
+   "tail": "time hours = 5  \nOvertime earnings = 5 \u00d7 $12 = **$60**\n\n---\n\n### Step 4: Calculate total earnings\nTotal earnings = Regular earnings + Overtime earnings  \n= $400 + $60 = **$460**\n\n---\n\n#### <number>460"
+  },
+  {
+   "q": "A new program had 60 downloads in the first month. The number of downloads in th",
+   "gold": "366",
+   "pred": "",
+   "tail": "btract that from 180:\n  $$\n  180 - 54 = 126\n  $$\n\n---\n\n### Step 4: Total downloads over three months\nAdd the downloads from all three months:\n$$\n60 + 180 + 126 = 366\n$$\n\n---\n\n#### <number>366</number>"
+  },
+  {
+   "q": "Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it w",
+   "gold": "13",
+   "pred": "12",
+   "tail": "p 3: Interpret the result\n\nAfter **12 years**, Carlos will have made back the initial $90 cost. From that point on, he will be **earning money** from the lemon tree.\n\n---\n\n### \u2705 Final Answer:\n\n#### 12"
+  },
+  {
+   "q": "Stephen placed an online order for groceries.  His final bill came to $40.00.  B",
+   "gold": "57",
+   "pred": "55.00",
+   "tail": "l cost} = 40.00 \\\\\n\\text{25% fee} = 8.00 \\\\\n\\text{Delivery fee} = 3.00 \\\\\n\\text{Tip} = 4.00\n$$\n\n$$\n\\text{Total final price} = 40.00 + 8.00 + 3.00 + 4.00 = 55.00\n$$\n\n---\n\n### \u2705 Final Answer:\n#### 55.00"
+  },
+  {
+   "q": "If Marcy works for the same company for 40 years, she gets an annual pension of ",
+   "gold": "25000",
+   "pred": "1875",
+   "tail": "**5% of the value of the pension per year**.\n\nSo, the **annual pension** she receives is:\n\n$$\n5\\% \\times 37,500 = 0.05 \\times 37,500 = 1,875\n$$\n\n---\n\n### \u2705 Final Answer:\n\n$$\n\\boxed{1875}\n$$\n\n#### 1875"
+  },
+  {
+   "q": "Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturd",
+   "gold": "7425",
+   "pred": "2925",
+   "tail": "\n\n### **Step 5: Calculate total earnings per week**\n\n- Total earnings = Total students \u00d7 Charge per student  \n- Total earnings = 195 students \u00d7 $15.00 = **$2,925**\n\n---\n\n### \u2705 Final Answer:\n\n#### 2925"
+  },
+  {
+   "q": "Christina is planning a birthday party and needs .75 gift bags per invited guest",
+   "gold": "24",
+   "pred": "18",
+   "tail": "ags needed is:\n\n$$\n0.75 \\times 12 = 9\n$$\n\n---\n\n### **Step 3: Calculate the total cost**\n\nEach gift bag costs **$2**.\n\nSo, the total cost is:\n\n$$\n9 \\times 2 = 18\n$$\n\n---\n\n### **Final Answer:**\n\n#### 18"
+  }
+ ]
+}
